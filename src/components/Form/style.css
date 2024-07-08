@@ -1,0 +1,17 @@
+.form {
+  margin-left: 60px;
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    width: 400px;
+    .field {
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 20px;
+      label {
+        margin-bottom: 5px;
+      }
+    }
+  }
+}
