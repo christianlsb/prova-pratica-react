@@ -43,7 +43,7 @@ export function Home() {
   console.log(saldo);
 
   return (
-    <PageContent title="Home">
+    <PageContent title="Teste AWS">
       <ContainerCards>
         <Card
           btn
